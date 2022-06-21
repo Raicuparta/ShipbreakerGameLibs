@@ -1,6 +1,6 @@
 @echo off 
 
-set toPublicize=Assembly-CSharp.dll Assembly-CSharp-firstpass.dll
+set toPublicize=Assembly-CSharp.dll BBI.Unity.Game.dll BBI.Unity.Core.dll BBI.Unity.Game.Data.dll
 
 set exePath=%1
 echo exePath: %exePath% 
